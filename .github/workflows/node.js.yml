@@ -1,4 +1,4 @@
-# name: Node.js Auto-Restart CI
+name: Node.js Auto-Restart CI
 
 on:
   push:
